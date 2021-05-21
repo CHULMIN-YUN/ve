@@ -9802,8 +9802,8 @@ vm-browserify@^1.0.1:
 
 vue-cli-plugin-electron-builder@~2.0.0:
   version "2.0.0"
-  resolved "https://registry.nlark.com/vue-cli-plugin-electron-builder/download/vue-cli-plugin-electron-builder-2.0.0.tgz#e847a5b548a747547842a52ec925e72c6ef28114"
-  integrity sha1-6EeltUinR1R4QqUuySXnLG7ygRQ=
+  resolved "https://registry.yarnpkg.com/vue-cli-plugin-electron-builder/-/vue-cli-plugin-electron-builder-2.0.0.tgz#e847a5b548a747547842a52ec925e72c6ef28114"
+  integrity sha512-Qrqj6g6poaZqxQmYHTZTbcJ/kdk1XyqeKYDXWjynV6gsyNrtyY28xVy/KvNk/uE8o9rlZFNai4J3mOPYyE4w+A==
   dependencies:
     "@vue/cli-shared-utils" "^4.5.6"
     chokidar "^3.0.2"
@@ -9828,8 +9828,8 @@ vue-cli-plugin-electron-builder@~2.0.0:
 
 vue-cli-plugin-vuetify@~2.4.0:
   version "2.4.0"
-  resolved "https://registry.nlark.com/vue-cli-plugin-vuetify/download/vue-cli-plugin-vuetify-2.4.0.tgz#e3eca6a51592a1610b2006296efc31c52981b031"
-  integrity sha1-4+ympRWSoWELIAYpbvwxxSmBsDE=
+  resolved "https://registry.yarnpkg.com/vue-cli-plugin-vuetify/-/vue-cli-plugin-vuetify-2.4.0.tgz#e3eca6a51592a1610b2006296efc31c52981b031"
+  integrity sha512-0gBy6TYeC5ez/Zya4wMLWXFQ+axKCbrZPc6OfOb5eXTLeUHqSTeyqbsqh0e8zxwBv0VJiQXdjyoY73UHhsb17A==
   dependencies:
     null-loader "^3.0.0"
     semver "^7.1.2"
